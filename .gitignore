@@ -1,0 +1,49 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+
+# Environment variables
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Media files
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Logs and data
+*.log
+*.json
+!fun_accounts.json
+!premium_users.json
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Bot specific
+*.session
+*.lock
+
